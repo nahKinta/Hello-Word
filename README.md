@@ -1,2 +1,3 @@
 # Hello-Word
-Bonjour a tous et fabuleux le monde des developpeurs
+Bonjour a tous,
+my name is Nah
